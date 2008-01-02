@@ -10,6 +10,7 @@ Summary: Binary hash generator
 License: GPL
 Group: System/Base
 Url: http://www.paranoiacs.org/~sluskyb/hacks/hashalot
+BuildRoot: %{_tmppath}/%{name}-%{version}-root
 
 %description
 This program will read a passphrase from standard input and print a binary
