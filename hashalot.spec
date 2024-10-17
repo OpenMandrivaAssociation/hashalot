@@ -9,7 +9,7 @@ Source0: %{name}-%{version}.tar.bz2
 Summary: Binary hash generator
 License: GPL
 Group: System/Base
-Url: http://www.paranoiacs.org/~sluskyb/hacks/hashalot
+Url: https://www.paranoiacs.org/~sluskyb/hacks/hashalot
 BuildRoot: %{_tmppath}/%{name}-%{version}-root
 
 %description
